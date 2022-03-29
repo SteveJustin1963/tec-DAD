@@ -9,6 +9,19 @@ tec1 MINT running a digital to analog to digital repeating loop to speed calcula
 
 ![](https://github.com/SteveJustin1963/tec-iDADmm/blob/main/pics/1.png)
 
+
+## Iterate
+- build matrix modules for the other analog fuctions
+- integrate
+- derivative 
+- opamp
+- oscil
+- quant
+- 
+
 ## Ref
 - https://www.youtube.com/watch?v=GVsUOuSjvcg
+- https://en.wikipedia.org/wiki/Analog_computer
+- https://en.wikipedia.org/wiki/Matrix_(mathematics)
+- https://en.wikipedia.org/wiki/Quantum_logic
 - 
