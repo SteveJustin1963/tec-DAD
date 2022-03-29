@@ -1,4 +1,4 @@
-# tec-DAD
+# tec-iDADmm
 tec1 MINT running a digital to analog to digital repeating loop to speed calculations, eg matrix multiplication
 
 - integer 8x8 DAC/ADC to matrix multiply 
