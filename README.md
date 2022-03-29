@@ -11,13 +11,29 @@ tec1 MINT running a digital to analog to digital repeating loop to speed calcula
 
 
 ## Iterate
-- build matrix modules for the other analog fuctions
-- integrate
-- derivative 
-- opamp
-- oscil
-- quant
-- 
+
+build matrix modules for the other analog fuctions
+
+base 
+- operational amplifiers
+- multipliers
+- potentiometers
+- function generators osc
+
+higher order
+- differentiation
+- addition
+- integration with respect to time
+- inversion
+- multiplication
+- exponentiation
+- logarithm
+- division
+- quanta
+
+
+
+
 
 ## Ref
 - https://www.youtube.com/watch?v=GVsUOuSjvcg
