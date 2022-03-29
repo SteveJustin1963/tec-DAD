@@ -7,6 +7,7 @@ tec1 MINT running a digital to analog to digital repeating loop to speed calcula
 - then decoded into 8 ADC to get 8 bytes 
 - this accomplishes a crude 8x8 matrix multiplication using analog current/voltage/resistor network
 
+![](https://github.com/SteveJustin1963/tec-iDADmm/blob/main/pics/1.png)
 
 ## Ref
 - https://www.youtube.com/watch?v=GVsUOuSjvcg
